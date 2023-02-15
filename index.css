@@ -1,0 +1,24 @@
+h1 {
+    font-size: 20px;
+    color: aqua;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: crimson;
+    text-align: center;
+}
+
+img {
+    display: flex;
+    margin: 50px auto;
+}
+
+div {
+    text-align: center;
+    margin: 0 auto;
+}
+button {
+    margin: 20px auto 0;
+}
